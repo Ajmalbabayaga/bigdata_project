@@ -10,7 +10,9 @@ steps:
 ![1 first pic](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/ce826733-1bd6-415a-abcf-6c03b925e2f0)
 ![1](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/7ce85110-d339-4e4f-8a32-604e542145ce)
 
-2. From HDFS, data is loaded into Hive.
+2. From HDFS, data is loaded into Hive by creating a database.
+
+![1 cases_against_police_personnels database](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/78f1ab7a-5bab-4f7f-a59d-f862d8256e24)
 
 
     a) Using SerDe properties, data is loaded into a table by removing quotes. 
@@ -49,12 +51,43 @@ steps:
 
    c)  Using the group by and order by functions in Hive, the top 10 states with the highest number of cases recorded for three years[2016,2017,2018] are filtered, and this result is loaded into a table.
 
+![1 create 3 table 2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/1d812e58-673d-4acb-8c13-a69f8b004c1a)
+![1 3 table insert](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/78a093f3-8198-4577-ab2a-48f361f58241)
+![2  3 table insert](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/08efe709-6e23-40e5-a205-e53d979f783d)
+![3 3 insert table](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/c48fff8f-1ea2-49c1-86be-f4c64b8873b0)
+
 ![1 total_cases  police](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/0e96d4c1-0abc-4b80-9998-c652cf976135)
 ![1 total_no_cases desc](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/8f32c453-e436-4eec-8012-292f06010af0)
+![1 total no cases insert hdfs](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/97331e9b-d1a4-436b-983b-2120780c376c)
 
-
+   d) From each table with cases in the years 2016, 2017, and 2018, the top 10 states with the highest number of cases reported in each year are filtered.
 
    * 2016 cases against police personnels
+
+![1 add table to new table2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/b47d921b-b432-465c-ad3f-a52b96d61f67)
+![8](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/d6c7823f-3e3a-4d18-83a9-304b90020b38)
+![1 new insert table 2016 to hdfs](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/68c9630b-2eac-4c9b-8064-48a3c0b4af0f)
+
+   * 2017 cases against police personnels
+
+![2 add table newtable 2017](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/0ad68906-3e01-4b48-b9d7-e67c2bb8d120)
+![9](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/8258ce33-7383-4457-a251-54ab43b00b17)
+![2 new insert  hdfs2017](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/6e321fcb-fb26-428e-bee0-3e6bfc724921)
+
+   * 2018 cases against police personnels
+     
+![3 add table 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/df8905b8-923c-44e6-a1c4-6f01e26f3f32)
+![10](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/7f4fc928-b50f-4a48-af0e-7f263e634817)
+![3 new inserthdfs 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/4c36562b-0bc6-43dd-9b91-b716f17bc49d)
+
+
+
+
+
+
+
+
+
 
                     
 
