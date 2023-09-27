@@ -10,9 +10,10 @@ steps:
 ![1 first pic](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/ce826733-1bd6-415a-abcf-6c03b925e2f0)
 ![1](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/7ce85110-d339-4e4f-8a32-604e542145ce)
 
-2. From HDFS, data is loaded into Hive by creating a database.
+2. From HDFS, data is loaded into Hive by creating databases.
 
 ![1 cases_against_police_personnels database](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/78f1ab7a-5bab-4f7f-a59d-f862d8256e24)
+![2 data baseescapes_from_police_custody ](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/865e0fae-e182-48c4-96f7-94d051dce012)
 
 
     a) Using SerDe properties, data is loaded into a table by removing quotes. 
@@ -31,6 +32,22 @@ steps:
 
 ![3 create normal table 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/2942fdf5-b44c-4ebe-9545-22875b16a47f)
 ![3 loaddatahdfs2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/6df09303-0687-4cd0-8941-feb3454ccbcb)
+
+    * 2016 Escape from Police Custody
+
+![1 create normal table2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/18f4414f-0526-4ef1-85be-9b3f2a465a14)
+![1 loaddatahdfs2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/367fb431-9f8d-40ec-9c14-a1e454071f5b)
+
+    * 2017 Escape from Police Custody
+
+![2 create normal table 2017](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/5bfcb7f9-1879-4c76-b622-4cd098e9e068)
+![2 loaddatahdfs2017](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/8f9805eb-ec9c-443a-8208-5161160bd023)
+
+    * 2018 Escape from Police Custody    
+
+![3 create noraml table 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/1ab46177-e49e-4206-b1f7-70a9d17078ba)
+![3 loaddata hdfs 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/98a77676-61bb-4760-aba8-b51a40007558)
+
 
    b) From this table,data is loaded into another table
    
@@ -80,8 +97,7 @@ steps:
 ![10](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/7f4fc928-b50f-4a48-af0e-7f263e634817)
 ![3 new inserthdfs 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/4c36562b-0bc6-43dd-9b91-b716f17bc49d)
 
-
-
+e)
 
 
 
