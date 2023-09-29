@@ -14,6 +14,7 @@ steps:
 
 ![1 cases_against_police_personnels database](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/78f1ab7a-5bab-4f7f-a59d-f862d8256e24)
 ![2 data baseescapes_from_police_custody ](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/865e0fae-e182-48c4-96f7-94d051dce012)
+![3 victims_of_rape database](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/c8a10796-c6f8-4bf7-9d51-ca2137cbb922)
 
 
     a) Using SerDe properties, data is loaded into a table by removing quotes. 
@@ -48,6 +49,21 @@ steps:
 ![3 create noraml table 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/1ab46177-e49e-4206-b1f7-70a9d17078ba)
 ![3 loaddata hdfs 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/98a77676-61bb-4760-aba8-b51a40007558)
 
+    * 2016 Victims of Rape        
+
+![1 create table vit2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/94f58ae8-eaa2-4465-bdb4-b0740b33a9db)
+![1 loaddatahsdfs2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/3ab88693-9794-43ed-9107-9a28ce2b015a)
+      
+    * 2017 Victims of Rape
+
+![2 create table vit 2017](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/0f9dc365-eebe-4191-85ae-ed2d5ca926ad)
+![2 loaddatahdfs2017](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/63b800b3-c4d8-49eb-8d5e-9326e9cdc3ac)
+
+    * 2018 Victims of Rape
+
+![3 create normal table2018 ](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/31a2db40-18f5-489a-b706-96f43dfc3398)
+![3 loaddatafromhdfs2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/fc4e02b7-169d-4433-a81a-3a889d2e3e06)
+
 
    b) From this table,data is loaded into another table
    
@@ -81,6 +97,11 @@ steps:
 ![3 create newtable 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/8796582c-4406-499b-89e9-4db652f43bf7)
 ![3 insert 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/77427cb8-317d-43dd-afd7-b31fb970d7a8)
 
+   * 2018 Victims of Rape                      
+
+![3 create newtable2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/8ce2ea24-c1f9-4812-8e2e-643bcd629a07)
+![3 insert tble2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/5d16b588-5573-4d91-a959-db6b62459217)
+
 
    c)  Using the group by and order by functions in Hive, the top 10 states with the highest number of cases recorded for three years[2016,2017,2018] are filtered, and this result is loaded into a table.
 
@@ -107,6 +128,16 @@ steps:
 ![1 total no escapes ](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/b2c3cbb0-f2a4-45ee-b8c0-9160b5917330)
 ![1 insert escapes hdfs](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/4096b83f-1646-496a-b448-b160c923fa37)
 
+   * 2016,2017,2018 Total number of Victims
+
+![1 create 3 table 2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/ee705a73-6ab7-44dd-beb9-f4070744cb57)
+![1 insert 3 table 2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/61020473-f2fa-4626-9bad-b9d4899a37ca)
+![2 insert 3 table 2017](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/3963b36e-facf-4fc5-b788-4c29ef0eef26)
+![3 insert 3 table 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/e2af536a-ed00-47e7-a328-a1fda1d306f8)
+
+![1 victims_cases create table](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/9ca33eb4-4c4b-4213-8499-43adcc91acdc)
+![1 victims total rape victims](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/07a2fe18-8b07-40b5-af19-7938d762e29c)
+![1  total_rape _ victims insert hdfs](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/3505215d-87ab-4ebe-b414-4c02082d13e3)
 
 
    d) From each table with cases in the years 2016, 2017, and 2018, the top 10 states with the highest number of cases reported in each year are filtered.
