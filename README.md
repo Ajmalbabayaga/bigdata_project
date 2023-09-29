@@ -103,10 +103,10 @@ steps:
 ![3 insert tble2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/5d16b588-5573-4d91-a959-db6b62459217)
 
 
-   c)  Using the group by and order by functions in Hive, the top 10 states with the highest number of cases recorded for three years[2016,2017,2018] are filtered, and this result is loaded into a table.
+   c)  Using the 'group by' and 'order by' functions in Hive, the top 10 states with the highest number of recorded cases, the most persons escaped, and the highest number of rape victims for the three years (2016, 2017, 2018) are filtered, and the results are loaded into a table.
 
 
-   * 2016,2017,2018 Total number of cases
+   * Total number of cases in three years(2016,2017,2018)
        
 ![1 create 3 table 2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/1d812e58-673d-4acb-8c13-a69f8b004c1a)
 ![1 3 table insert](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/78a093f3-8198-4577-ab2a-48f361f58241)
@@ -117,7 +117,7 @@ steps:
 ![1 total_no_cases desc](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/8f32c453-e436-4eec-8012-292f06010af0)
 ![1 total no cases insert hdfs](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/97331e9b-d1a4-436b-983b-2120780c376c)
          
-   * 2016,2017,2018 Total number of Escape
+   * Total number of Escape in three years(2016,2017,2018)
 
 ![1 create 3 table 2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/bbd8389e-77a2-4145-b866-c9776e3481b0)
 ![1 insert 3 tables2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/4789d4c5-df54-4d8a-8eff-578ee1e913b1)
@@ -128,7 +128,7 @@ steps:
 ![1 total no escapes ](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/b2c3cbb0-f2a4-45ee-b8c0-9160b5917330)
 ![1 insert escapes hdfs](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/4096b83f-1646-496a-b448-b160c923fa37)
 
-   * 2016,2017,2018 Total number of Victims
+   * Total number of Victims in three years (2016,2017,2018)
 
 ![1 create 3 table 2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/ee705a73-6ab7-44dd-beb9-f4070744cb57)
 ![1 insert 3 table 2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/61020473-f2fa-4626-9bad-b9d4899a37ca)
@@ -140,7 +140,7 @@ steps:
 ![1  total_rape _ victims insert hdfs](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/3505215d-87ab-4ebe-b414-4c02082d13e3)
 
 
-   d) From each table with cases in the years 2016, 2017, and 2018, the top 10 states with the highest number of cases reported in each year are filtered.
+   d) From each table containing cases, escapes, and victims for the years 2016, 2017, and 2018, the top 10 states with the highest number of reported cases, the most persons escaped, and the highest number of rape victims in each year are filtered.
 
    * 2016 cases against police personnels
 
