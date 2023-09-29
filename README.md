@@ -84,6 +84,9 @@ steps:
 
    c)  Using the group by and order by functions in Hive, the top 10 states with the highest number of cases recorded for three years[2016,2017,2018] are filtered, and this result is loaded into a table.
 
+
+   * 2016,2017,2018 Total number of cases
+       
 ![1 create 3 table 2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/1d812e58-673d-4acb-8c13-a69f8b004c1a)
 ![1 3 table insert](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/78a093f3-8198-4577-ab2a-48f361f58241)
 ![2  3 table insert](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/08efe709-6e23-40e5-a205-e53d979f783d)
@@ -92,6 +95,19 @@ steps:
 ![1 total_cases  police](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/0e96d4c1-0abc-4b80-9998-c652cf976135)
 ![1 total_no_cases desc](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/8f32c453-e436-4eec-8012-292f06010af0)
 ![1 total no cases insert hdfs](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/97331e9b-d1a4-436b-983b-2120780c376c)
+         
+   * 2016,2017,2018 Total number of Escape
+
+![1 create 3 table 2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/bbd8389e-77a2-4145-b866-c9776e3481b0)
+![1 insert 3 tables2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/4789d4c5-df54-4d8a-8eff-578ee1e913b1)
+![2 insert 3 tables2017](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/453a1a3c-6d6a-4d49-8bdf-ea5ffcfa80e1)
+![3 insert 3 table 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/b72e2918-0f0d-4d9b-a983-21f50d0fcf78)
+
+![1 escape_cases create](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/96a4a139-7a60-4e80-8bc5-9c47e990eee7)
+![1 total no escapes ](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/b2c3cbb0-f2a4-45ee-b8c0-9160b5917330)
+![1 insert escapes hdfs](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/4096b83f-1646-496a-b448-b160c923fa37)
+
+
 
    d) From each table with cases in the years 2016, 2017, and 2018, the top 10 states with the highest number of cases reported in each year are filtered.
 
@@ -112,6 +128,10 @@ steps:
 ![3 add table 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/df8905b8-923c-44e6-a1c4-6f01e26f3f32)
 ![10](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/7f4fc928-b50f-4a48-af0e-7f263e634817)
 ![3 new inserthdfs 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/4c36562b-0bc6-43dd-9b91-b716f17bc49d)
+                  
+   * 2016 Escape from Police Custody                  
+
+
 
 e)
 
