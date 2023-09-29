@@ -131,6 +131,21 @@ steps:
                   
    * 2016 Escape from Police Custody                  
 
+![1 add table 2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/7e2b5ca2-bb50-4f22-8f02-57b88d527651)
+![20](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/1f66266a-e29e-43d9-9af8-25a31dcfc1b4)
+![1 insert new hdfs 2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/788ba444-952a-4b24-8267-3dc72ce397ee)
+
+   * 2017 Escape from Police Custody
+
+![2017 most](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/b12eddde-5c57-4f6f-bbef-a26c72cfa39d)
+![21](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/dbd75549-2dbf-45ee-9a66-6baf47376ee0)
+![2 new insert  hdfs2017](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/f33707c2-0de4-49d2-aadd-0f772a96306f)
+
+   * 2018 Escape from Police Custody                   
+
+![3 add table 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/6651447a-3776-40fc-b3fb-6e7c026b97bc)
+![23](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/677e0332-03ed-4cd7-a591-ed9ff7af278a)
+![3 new inserthdfs 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/309c74ec-09e8-442c-84c5-c6381e8c3922)
 
 
 e)
