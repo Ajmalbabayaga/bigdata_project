@@ -177,7 +177,24 @@ steps:
 ![3 add table 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/6651447a-3776-40fc-b3fb-6e7c026b97bc)
 ![23](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/677e0332-03ed-4cd7-a591-ed9ff7af278a)
 ![3 new inserthdfs 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/309c74ec-09e8-442c-84c5-c6381e8c3922)
+           
+   * 2016 Victims of Rape
 
+![30](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/5d66211d-cc3f-4901-aa05-95d642bf4cfc)
+![30](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/93edac3f-cc1e-47d9-a985-02f724b7bbba)
+![31](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/320d6002-873c-41ba-bd29-1d38fc514df9)
+
+   * 2017 Victims of Rape
+
+![33](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/049ea480-0248-42c0-a723-c04b9fb8e67d)
+![31](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/b281562f-3566-4b40-9b17-068ea1518ab4)
+![34](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/cbd830e2-e534-4d49-9524-c7e2c69149dc)
+
+   * 2018 Victims of Rape                     
+
+![36](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/c155bff3-1bbc-44a9-8e42-ed17a4480138)
+![33](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/4acbac73-0043-429d-92f9-93941a44aea4)
+![37](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/4822a82b-e01b-4543-a698-43e529288d35)
 
 e)
 
