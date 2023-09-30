@@ -49,11 +49,15 @@ steps:
 ![3 create noraml table 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/1ab46177-e49e-4206-b1f7-70a9d17078ba)
 ![3 loaddata hdfs 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/98a77676-61bb-4760-aba8-b51a40007558)
 
+The data is already in integer datatype, so the serde property is not used. Instead, a table is created and loaded directly into HDFS. (2016 victims of rape)
+
     * 2016 Victims of Rape        
 
 ![1 create table vit2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/94f58ae8-eaa2-4465-bdb4-b0740b33a9db)
 ![1 loaddatahsdfs2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/3ab88693-9794-43ed-9107-9a28ce2b015a)
-      
+
+The data is already in integer datatype, so the serde property is not used. Instead, a table is created and loaded directly into HDFS. (2017 victims of rape)
+
     * 2017 Victims of Rape
 
 ![2 create table vit 2017](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/0f9dc365-eebe-4191-85ae-ed2d5ca926ad)
@@ -196,7 +200,9 @@ steps:
 ![33](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/4acbac73-0043-429d-92f9-93941a44aea4)
 ![37](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/4822a82b-e01b-4543-a698-43e529288d35)
 
-e)
+e)The result are plotted using matplotlip in pyspark.
+
+The files regarding the cases against police personnel escapes from police custody,and victims of rape are mentioned above as cases.py,escapes.py and victims.py respectively.
 
 
 
