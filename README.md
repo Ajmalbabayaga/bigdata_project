@@ -202,9 +202,14 @@ The data is already in integer datatype, so the serde property is not used. Inst
 
 e)The result are plotted using matplotlip in pyspark.
 
-The files regarding the cases against police personnel escapes from police custody,and victims of rape are mentioned above as cases.py,escapes.py and victims.py respectively.
+* The files regarding the cases against police personnel escapes from police custody,and victims of rape are mentioned above as cases.py,escapes.py and victims.py respectively.
 
+* The report are given below
 
+i) To find the top 10 states/UTs with the highest number of cases reported in the year 2016.
+
+   ![1 2016 casestable ss](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/c2b1c39d-c111-41d6-877f-f917d1f91677)
+![1 cases2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/3cf4a1f0-bbb1-4191-8a7b-16a2b132f77c)
 
 
 
