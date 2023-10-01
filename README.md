@@ -221,7 +221,7 @@ III) To find the top 10 states/UT with the highest number of cases reported in t
 ![3 cases 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/8a19bdaa-cc23-4e77-862e-1c5ba5c703d3)
 ![2 cases2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/c0f60218-ffe8-4c71-990b-9eb963fd07e6)
 
-IV) To find the top 10 states/UT with the highest number of cases reported in the years (2016,2017,2018).             
+IV) To find the top 10 states/UT with the highest number of cases reported in the three years (2016,2017,2018).             
 
 ![4 cases all](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/63be52c4-1962-46c7-815a-f66b5dfce639)
 ![4 cases all](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/e58d3a73-8ed7-4eb6-88c8-f786cbff343e)
@@ -241,7 +241,7 @@ VII) To find the top 10 states/UT with total number of persons escaped from poli
 ![7 escape 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/26aedd0f-0eee-43cf-b538-d0ed615f6b5a)
 ![7 escape2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/443cfe9a-cc2f-46d8-8954-22dbc26cd534)
 
-VIII) To find the top 10 states/UT with total number of persons escaped from police custody in the years (2016,2017,2018).
+VIII) To find the top 10 states/UT with total number of persons escaped from police custody in the three years (2016,2017,2018).
 
 ![8 escape all](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/d0d5e548-e3f4-4ab7-9234-08e85838734b)
 ![8 escape all](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/d238e3dd-7801-4e50-8f10-02b296dd9e9b)
@@ -261,7 +261,7 @@ XI) To find the top 10 states with rape victims in india top 10 states in the ye
 ![11 victims 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/622eb0c7-b232-411d-a398-c49ee31c2619)
 ![11 victims2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/60269cbf-2322-4e41-900b-d389241d13fb)
 
-XII) To find the top 10 states with rape victims in india top 10 states in the years (2016,2017,2018).
+XII) To find the top 10 states with rape victims in india top 10 states in the three years (2016,2017,2018).
 
 ![12 victims all](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/734ce868-9181-471c-ad61-21a14310d36d)
 ![12 victims all](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/fab5bbce-2550-4e34-8b9e-766810c54ca6)
