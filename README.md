@@ -206,16 +206,65 @@ e)The result are plotted using matplotlip in pyspark.
 
 * The report are given below
 
-i) To find the top 10 states/UTs with the highest number of cases reported in the year 2016.
+I) To find the top 10 states/UT with the highest number of cases reported in the year 2016.
 
    ![1 2016 casestable ss](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/c2b1c39d-c111-41d6-877f-f917d1f91677)
 ![1 cases2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/3cf4a1f0-bbb1-4191-8a7b-16a2b132f77c)
 
+II) To find the top 10 states/UT with the highest number of cases reported in the year 2017.
 
+![2 cases2017](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/d910ca6c-d91c-4f7a-885f-64d8f7bdcfb9)
+![2 cases2017](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/d3af2ea6-833a-4246-97b9-dd4fec328ac2)
 
+III) To find the top 10 states/UT with the highest number of cases reported in the year 2018.
 
+![3 cases 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/8a19bdaa-cc23-4e77-862e-1c5ba5c703d3)
+![2 cases2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/c0f60218-ffe8-4c71-990b-9eb963fd07e6)
 
-                    
+IV) To find the top 10 states/UT with the highest number of cases reported in the years (2016,2017,2018).             
+
+![4 cases all](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/63be52c4-1962-46c7-815a-f66b5dfce639)
+![4 cases all](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/e58d3a73-8ed7-4eb6-88c8-f786cbff343e)
+
+V) To find the top 10 states/UT with total number of persons escaped from police custody in the year 2016.
+
+![5 escape 2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/d8328966-9025-4ba1-9824-80d1f8c71f03)
+![5 escape2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/a91bc722-0f75-4bd0-a114-967cde65e4d6)
+
+VI) To find the top 10 states/UT with total number of persons escaped from police custody in the year 2017.
+
+![6 escape 2017](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/17487396-3766-43c8-918c-b66e5c4005cd)
+![6 escape2017](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/6f4fb151-a92e-4e55-9e83-5970fa5cb807)
+
+VII) To find the top 10 states/UT with total number of persons escaped from police custody in the year 2018.
+
+![7 escape 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/26aedd0f-0eee-43cf-b538-d0ed615f6b5a)
+![7 escape2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/443cfe9a-cc2f-46d8-8954-22dbc26cd534)
+
+VIII) To find the top 10 states/UT with total number of persons escaped from police custody in the years (2016,2017,2018).
+
+![8 escape all](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/d0d5e548-e3f4-4ab7-9234-08e85838734b)
+![8 escape all](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/d238e3dd-7801-4e50-8f10-02b296dd9e9b)
+
+IX) To find the top 10 states with rape victims in india top 10 states in the year 2016.
+
+![9 victims 2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/9c9c71ef-b0b9-48ba-933b-bbdc63e49b87)
+![9 victims2016](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/ff9872ca-3f1f-4f78-9e49-240999466321)
+
+X) To find the top 10 states with rape victims in india top 10 states in the year 2017.
+
+![10 victims 2017](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/cb3c96bf-807d-423b-8609-2809b476d2b4)
+![10 victims2017](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/c6b9bdc6-8a0c-4db8-877d-b4f7b330543d)
+
+XI) To find the top 10 states with rape victims in india top 10 states in the year 2018.
+
+![11 victims 2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/622eb0c7-b232-411d-a398-c49ee31c2619)
+![11 victims2018](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/60269cbf-2322-4e41-900b-d389241d13fb)
+
+XII) To find the top 10 states with rape victims in india top 10 states in the years (2016,2017,2018).
+
+![12 victims all](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/734ce868-9181-471c-ad61-21a14310d36d)
+![12 victims all](https://github.com/Ajmalbabayaga/bigdata_project/assets/144656790/fab5bbce-2550-4e34-8b9e-766810c54ca6)
 
 
 
